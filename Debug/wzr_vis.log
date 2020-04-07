@@ -1,0 +1,75 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  graphics.cpp
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(53,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(96,35): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(324,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(365,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(366,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(368,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(369,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(375,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(376,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(379,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(382,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(387,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(388,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(390,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(391,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(402,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(403,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(404,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(405,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating Code...
+C:\Users\adrian\Desktop\wzr20_1g\graphics.cpp(69): warning C4715: 'GraphicsInitialisation': not all control paths return a value
+  Compiling...
+  vector3D.cpp
+C:\Users\adrian\Desktop\wzr20_1g\vector3D.cpp(7,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\adrian\Desktop\wzr20_1g\vector3D.cpp(100,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\vector3D.cpp(100,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\vector3D.cpp(120,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\vector3D.cpp(133,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\vector3D.cpp(163,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  quaternion.cpp
+C:\Users\adrian\Desktop\wzr20_1g\quaternion.cpp(63,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\quaternion.cpp(95,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\quaternion.cpp(102,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  objects.cpp
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(37,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(40,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(48,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(75,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(77,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(78,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(117,80): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(118,82): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(127,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(128,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(130,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(146,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(206,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(228,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(291,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(299,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(453,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(453,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(486,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\objects.cpp(486,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\adrian\Desktop\wzr20_1g\main.cpp(19,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adrian\Desktop\wzr20_1g\main.cpp(128,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\main.cpp(130,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adrian\Desktop\wzr20_1g\main.cpp(323,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\adrian\Desktop\wzr20_1g\main.cpp(384,63): warning C4305: '/=': truncation from 'double' to 'float'
+C:\Users\adrian\Desktop\wzr20_1g\main.cpp(390,61): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\adrian\Desktop\wzr20_1g\main.cpp(416,37): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\adrian\Desktop\wzr20_1g\main.cpp(421,37): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\adrian\Desktop\wzr20_1g\main.cpp(444,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adrian\Desktop\wzr20_1g\main.cpp(445,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adrian\Desktop\wzr20_1g\main.cpp(446,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adrian\Desktop\wzr20_1g\main.cpp(450,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adrian\Desktop\wzr20_1g\main.cpp(451,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adrian\Desktop\wzr20_1g\main.cpp(452,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adrian\Desktop\wzr20_1g\main.cpp(458,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+C:\Users\adrian\Desktop\wzr20_1g\main.cpp(526): warning C4715: 'WndProc': not all control paths return a value
+  wzr_vis.vcxproj -> C:\Users\adrian\Desktop\wzr20_1g\Debug\wzr_vis.exe

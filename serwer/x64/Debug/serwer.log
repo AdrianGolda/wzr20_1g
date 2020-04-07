@@ -1,0 +1,10 @@
+﻿  serwer.cpp
+serwer.obj : error LNK2019: unresolved external symbol "public: __cdecl Vector3::Vector3(void)" (??0Vector3@@QEAA@XZ) referenced in function "unsigned long __cdecl ReceiveThreadFun(void *)" (?ReceiveThreadFun@@YAKPEAX@Z)
+serwer.obj : error LNK2019: unresolved external symbol "public: __cdecl quaternion::quaternion(void)" (??0quaternion@@QEAA@XZ) referenced in function "unsigned long __cdecl ReceiveThreadFun(void *)" (?ReceiveThreadFun@@YAKPEAX@Z)
+serwer.obj : error LNK2019: unresolved external symbol "public: __cdecl MovableObject::MovableObject(void)" (??0MovableObject@@QEAA@XZ) referenced in function "unsigned long __cdecl ReceiveThreadFun(void *)" (?ReceiveThreadFun@@YAKPEAX@Z)
+serwer.obj : error LNK2019: unresolved external symbol "public: void __cdecl MovableObject::ChangeState(struct ObjectState)" (?ChangeState@MovableObject@@QEAAXUObjectState@@@Z) referenced in function "unsigned long __cdecl ReceiveThreadFun(void *)" (?ReceiveThreadFun@@YAKPEAX@Z)
+serwer.obj : error LNK2019: unresolved external symbol "public: struct ObjectState __cdecl MovableObject::State(void)" (?State@MovableObject@@QEAA?AUObjectState@@XZ) referenced in function "void __cdecl send(class MovableObject *,unsigned long)" (?send@@YAXPEAVMovableObject@@K@Z)
+serwer.obj : error LNK2019: unresolved external symbol "public: __cdecl unicast_net::unicast_net(unsigned short)" (??0unicast_net@@QEAA@G@Z) referenced in function main
+serwer.obj : error LNK2019: unresolved external symbol "public: int __cdecl unicast_net::send(char *,unsigned long,unsigned short)" (?send@unicast_net@@QEAAHPEADKG@Z) referenced in function "void __cdecl send(class MovableObject *,unsigned long)" (?send@@YAXPEAVMovableObject@@K@Z)
+serwer.obj : error LNK2019: unresolved external symbol "public: int __cdecl unicast_net::reciv(char *,unsigned long *,unsigned short)" (?reciv@unicast_net@@QEAAHPEADPEAKG@Z) referenced in function "unsigned long __cdecl ReceiveThreadFun(void *)" (?ReceiveThreadFun@@YAKPEAX@Z)
+C:\Users\adrian\Desktop\wzr20_1g\x64\Debug\serwer.exe : fatal error LNK1120: 8 unresolved externals
